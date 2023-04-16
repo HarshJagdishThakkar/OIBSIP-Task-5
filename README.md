@@ -1,4 +1,4 @@
-# OASIS-INFOBYTE-INTERNSHIP-Task-5
+# OIBSIP-Task-5
 SALES PREDICTION USING PYTHON
 
 Sales prediction means predicting how much of a product people will buy based on factors
